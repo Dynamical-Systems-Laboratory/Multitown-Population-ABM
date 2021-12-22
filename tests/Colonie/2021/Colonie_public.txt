@@ -1,0 +1,6 @@
+1 outside 39.5 12302
+2 outside 27.0 12144
+3 outside 60.0 12866
+4 outside 32.0 12188
+5 outside 32.0 12065
+6 ST 17.0 NR

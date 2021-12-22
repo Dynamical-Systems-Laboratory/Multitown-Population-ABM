@@ -1,0 +1,5 @@
+Management__business__science__and_arts_occupations	6948	28.35	A
+Service_occupations	6985	28.5	B
+Sales_and_office_occupations	5386	21.98	C
+Natural_resources__construction__and_maintenance_occupations	1624	6.63	D
+Production__transportation__and_material_moving_occupations	3566	14.55	E

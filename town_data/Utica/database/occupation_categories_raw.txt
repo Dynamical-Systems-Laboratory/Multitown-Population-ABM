@@ -1,0 +1,9 @@
+US census employment industry 	Number of employees 	Percentage	Business category	Industry code
+Management__business__science__and_arts_occupations	6948	28.35%	"E,F,H,V,W,X,BB,CC,DD,UN,ER"	A
+Service_occupations	6985	28.50%	"K,L,N,Q,S,T,Y,AA,EE,FF,HH,LL,NN,AS,SR"	B
+Sales_and_office_occupations	5386	21.98%	"G,J,M,P,R,U,WT,ST"	C
+Natural_resources__construction__and_maintenance_occupations	1624	6.63%	M	D
+Production__transportation__and_material_moving_occupations	3566	14.55%	"GG,MF"	E
+				
+				
+				

@@ -1,0 +1,5 @@
+1 outside 22.0 13340
+2 outside 39.5 13440
+3 outside 60.0 13421
+4 outside 60.0 13365
+5 outside 22.0 13413

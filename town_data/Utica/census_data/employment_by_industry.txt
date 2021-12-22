@@ -1,0 +1,6 @@
+US census employment industry 	Number of employees 	Percentage	Consolidation by cateogry
+"Management, business, science, and arts occupations"	6948	28.35%	
+Service occupations	6985	28.50%	
+Sales and office occupations	5386	21.98%	
+"Natural resources, construction, and maintenance occupations"	1624	6.63%	
+"Production, transportation, and material moving occupations"	3566	14.55%	
